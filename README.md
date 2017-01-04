@@ -1,2 +1,2 @@
 # hello-world
-The hello world example!
+The hello world example, slightly altered!
